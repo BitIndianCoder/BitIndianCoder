@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chirag Pansuriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h5 align="center">I have 5+ years of experience in App development as a React-Native Developer. I understand all aspects of developing mobile applications: design, architecture, development, and publishing.</h5>
+
+🏭 𝐈𝐍𝐃𝐔𝐒𝐓𝐑𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄:
+✔ Learning
+✔ Healthcare
+✔ Finance
+✔ Crowdfunding
+✔ E-Commerce, etc.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitindiancoder&label=Profile%20views&color=0e75b6&style=flat" alt="bitindiancoder" /> </p>
 
@@ -7,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/chirag](https://www.upwork.com/freelancers/chirag)
 
-- 💬 Ask me about **React-native android ios**
+- 💬 Ask me about **React-native**
 
 - 📫 How to reach me **chiragpansuriya210@gmail.com**
 
