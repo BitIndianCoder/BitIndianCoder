@@ -37,7 +37,10 @@
 <img src=https://img.shields.io/badge/upwork-green?&style=for-the-badge&logo=upwork&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.upwork.com/freelancers/chirag" target="_blank">
-<img src=https://img.shields.io/badge/upwork-green?&style=for-the-badge&logo=upwork&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Skype-00AFF0&style=for-the-badge&logo=upwork&logoColor=white alt=medium style="margin-bottom: 5px;" />
+
+
+
 </a> 
 
 </div>  
