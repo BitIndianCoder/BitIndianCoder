@@ -34,13 +34,10 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.upwork.com/freelancers/chirag" target="_blank">
-<img src=https://img.shields.io/badge/upwork-green?&style=for-the-badge&logo=upwork&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/upwork-green?&style=for-the-badge&logo=upwork&logoColor=white alt=upwork style="margin-bottom: 5px;" />
 </a> 
-<a href="live:chiragpansuriya" target="_blank">
-<img src=https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white alt=medium style="margin-bottom: 5px;" />
-
-
-
+<a href="https://join.skype.com/invite/Xwa9eIM0MUW3" target="_blank">
+<img src=https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white alt=skype style="margin-bottom: 5px;" />
 </a> 
 
 </div>  
