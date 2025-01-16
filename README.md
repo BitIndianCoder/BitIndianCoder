@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Pansuriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h5 align="center">I have 5+ years of experience in App development as a React-Native Developer. I understand all aspects of developing mobile applications: design, architecture, development, and publishing.</h5>
+<h5 align="center">I have 5+ years of experience in App development as a Front-End Developer. I understand all aspects of developing web and mobile applications: design, architecture, development, and publishing.</h5>
 
 🏭 𝐈𝐍𝐃𝐔𝐒𝐓𝐑𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄:
 ✔ Learning
