@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Pansuriya</h1>
 
 <h3 align="center">
-Senior Software Engineer • AI / GenAI • LLM Integration • React • Next.js • React Native
+Senior Software Engineer • AI / GenAI • LLM Integration • AI & GenAI • Prompt Engineering • AI Evaluation • React • Next.js • React Native
 </h3>
 
 <p align="center">
