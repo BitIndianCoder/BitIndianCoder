@@ -1,333 +1,224 @@
 <h1 align="center">Hi 👋, I'm Chirag Pansuriya</h1>
 
 <h3 align="center">
-Senior Software Engineer | AI/GenAI | LLM Integration | React | Next.js | React Native | TypeScript
+Senior Software Engineer • AI / GenAI • LLM Integration • React • Next.js • React Native
 </h3>
 
 <p align="center">
-Building practical AI-powered products, web applications, and mobile applications.
+Building practical AI-powered products and production-ready web & mobile applications.
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Senior Software Engineer with 10+ years of experience building web and mobile products.
-
-My recent work focuses on **AI and Generative AI**, including LLM-powered features, AI API integration, prompt engineering, AI evaluation, and AI-assisted development.
-
-Alongside AI, I have strong hands-on experience with **React, Next.js, React Native, TypeScript, JavaScript, web application development, and mobile application development** across iOS and Android.
-
-I enjoy working on the practical side of AI, connecting AI capabilities with real products, refining prompts, evaluating model responses, and building useful AI-driven workflows.
-
-I also work across frontend architecture, REST APIs, real-time communication, performance optimization, third-party integrations, and end-to-end product development.
-
-### What I work on
-
-- 🤖 AI & Generative AI applications
-- 🧠 LLM-powered features and integrations
-- 🔌 AI API integration
-- ✍️ Prompt engineering
-- 🔎 AI / LLM evaluation
-- ⚛️ React & Next.js applications
-- 📱 React Native mobile applications
-- 🍎 iOS application development
-- 🤖 Android application development
-- 🏗️ Frontend architecture
-- 🔗 REST API & third-party integrations
-- ⚡ Performance optimization
-- 🔄 Real-time applications and WebSockets
+<p align="center">
+  <a href="https://www.linkedin.com/in/pansuriya-chirag/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://chiragpansuriya.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:chiragpansuriya210@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🤖 AI & GenAI
 
-My AI work focuses on applying AI to real software products rather than treating it as a separate technology layer.
+I’m a Senior Software Engineer with **10+ years of software development experience**, currently focused on building practical AI and GenAI solutions.
 
-### LLM-Powered Features
-Building and integrating LLM capabilities into real application workflows and user experiences.
+My AI work includes:
 
-### AI API Integration
-Connecting AI services and APIs with frontend applications, backend services, and existing product workflows.
+- **LLM-powered application features**
+- **LLM & AI API integration**
+- **Prompt engineering and prompt iteration**
+- **AI / LLM response evaluation**
+- **AI-assisted development workflows**
+- **Response quality analysis**
+- **Instruction-following and relevance evaluation**
+- **Connecting AI capabilities with real product workflows**
 
-### Prompt Engineering
-Designing, refining, and iterating prompts to produce more useful, relevant, and consistent responses.
-
-### AI Evaluation
-Reviewing and comparing AI responses for:
-
-- Accuracy
-- Relevance
-- Consistency
-- Instruction following
-- Response quality
-- Prompt effectiveness
-
-### AI-Assisted Development
-Using modern AI tools to support coding, debugging, refactoring, documentation, and development workflows.
+I’m particularly interested in the space where **AI meets real software products** — taking an AI capability, integrating it into an application, and making the overall experience useful, reliable, and maintainable.
 
 ---
 
-## 🧑‍💻 Web Development
+## 🧠 What I Bring
 
-I build production-ready web applications with a focus on maintainability, usability, performance, and clean frontend architecture.
+### AI / GenAI
+`LLMs` `Generative AI` `Prompt Engineering` `AI Evaluation`
+`LLM Integration` `AI APIs` `AI-assisted Development`
 
-**Technologies:**
+### Software Engineering
+`React` `Next.js` `React Native` `TypeScript` `JavaScript`
+`Frontend Architecture` `REST APIs` `WebSockets`
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Redux
-- Tailwind CSS
-- HTML5
-- CSS
-- REST APIs
-- WebSockets
-- Responsive Web Development
-- Frontend Architecture
-- Reusable Components
-- Performance Optimization
-- SEO
-- Core Web Vitals
+### Mobile
+`React Native` `iOS` `Android` `Push Notifications`
+`Deep Linking` `Google Maps` `Third-party SDKs`
+
+### Engineering
+`Reusable Components` `Performance Optimization`
+`API Integration` `Real-time Applications` `Responsive UI`
 
 ---
 
-## 📱 Mobile Development
+## 💼 Professional Experience
 
-I have hands-on experience building production mobile applications using React Native, with experience across both iOS and Android.
+### Senior Software Engineer
+**Independent Software Development**  
+**2019 – Present**
 
-**Areas of experience:**
+- Build and integrate **AI/GenAI capabilities and LLM-powered features** into real applications.
+- Work with **AI APIs, prompt engineering, prompt iteration, and AI response evaluation**.
+- Evaluate AI outputs for **accuracy, relevance, consistency, instruction following, and overall response quality**.
+- Build production web applications using **React, Next.js, TypeScript, and JavaScript**.
+- Develop cross-platform mobile applications using **React Native for iOS and Android**.
+- Design reusable components and frontend architecture for scalable applications.
+- Integrate REST APIs, WebSockets, payments, maps, notifications, and third-party services.
+- Modernize existing applications through **performance improvements, UI improvements, restructuring, and dependency updates**.
+- Work directly with clients and stakeholders from requirements through production delivery.
 
-- React Native
-- iOS App Development
-- Android App Development
-- Cross-platform mobile development
-- Mobile UI development
-- REST API integration
-- Redux
-- Push notifications
-- Deep linking
-- Google Maps
-- Third-party SDK integration
-- Reusable mobile components
-- Mobile application architecture
+### Mobile App Developer
+**Icanstudio App Solutions**
+
+- Developed production React Native applications from requirements and designs.
+- Built reusable mobile components and integrated REST APIs.
+- Worked extensively with React Native, JavaScript, Redux and npm.
+- Focused on responsive interfaces, application architecture and third-party integrations.
+
+### Earlier Experience
+
+Started my software engineering journey with web and Android development, working with **PHP, MySQL, Java, XML, REST APIs and Google Maps**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technology
 
-### AI & GenAI
+### AI / GenAI
 
-<p align="left">
-<img src="https://img.shields.io/badge/AI%20%2F%20GenAI-111827?style=for-the-badge" alt="AI GenAI" />
-<img src="https://img.shields.io/badge/LLM-4F46E5?style=for-the-badge" alt="LLM" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/AI%20Evaluation-2563EB?style=for-the-badge" alt="AI Evaluation" />
+<p>
+<img src="https://img.shields.io/badge/AI%20%2F%20GenAI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Integration-059669?style=for-the-badge" />
 </p>
 
-### Frontend
+### Web
 
-<p align="left">
-<a href="https://react.dev/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="50" />
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-</a>
-
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>
-
-<a href="https://redux.js.org/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" height="50" />
-</a>
+<p>
+<img src="https://cdn.simpleicons.org/react" height="42" />
+<img src="https://cdn.simpleicons.org/nextdotjs" height="42" />
+<img src="https://cdn.simpleicons.org/typescript" height="42" />
+<img src="https://cdn.simpleicons.org/javascript" height="42" />
+<img src="https://cdn.simpleicons.org/redux" height="42" />
+<img src="https://cdn.simpleicons.org/tailwindcss" height="42" />
 </p>
 
 ### Mobile
 
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50" />
-</a>
-
-<a href="https://developer.apple.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/apple" alt="iOS" height="50" />
-</a>
-
-<a href="https://www.android.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-</a>
+<p>
+<img src="https://cdn.simpleicons.org/react" height="42" />
+<img src="https://cdn.simpleicons.org/apple" height="42" />
+<img src="https://cdn.simpleicons.org/android" height="42" />
 </p>
-
-### Backend & APIs
-
-<p align="left">
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge" alt="WebSockets" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Tools & Integrations
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</a>
-
-<a href="https://about.gitlab.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-</a>
-</p>
-
-Also experienced with:
-
-- Stripe
-- WalletConnect
-- Google Maps
-- Push Notifications
-- Deep Linking
-- Third-party SDKs
-- npm ecosystem
 
 ---
 
-## 💼 Experience
+## 🚀 What I Like Building
 
-### Senior Software Engineer
-**Self-Employed / Independent Software Development**  
-**Jul 2019 – Present**
+I enjoy working on products that combine **strong software engineering with emerging AI capabilities**.
 
-- Lead end-to-end software development across product initiatives.
-- Develop and integrate AI and Generative AI functionality.
-- Build LLM-powered features and AI API integrations.
-- Connect AI capabilities with application interfaces and existing product workflows.
-- Apply prompt engineering and modern AI development patterns.
-- Work on AI evaluation including response evaluation, prompt iteration, output comparison, and quality assessment.
-- Evaluate LLM responses for accuracy, relevance, consistency, instruction following, and overall quality.
-- Use AI-assisted engineering workflows for coding, debugging, refactoring, and documentation.
-- Build responsive web applications using React, Next.js, TypeScript, and JavaScript.
-- Build mobile applications using React Native across iOS and Android.
-- Design reusable components and frontend architecture.
-- Integrate REST APIs and third-party services.
-- Implement real-time communication using WebSockets.
-- Integrate payment services, push notifications, deep linking, maps, and third-party SDKs.
-- Modernize existing applications through restructuring, performance optimization, UI improvements, and dependency updates.
-- Work directly with clients and product stakeholders from requirements through production delivery.
+Some areas I've worked across include:
 
-### Mobile App Developer
-**Icanstudio App Solutions, Surat**  
-**Jan 2018 – Jun 2019**
-
-- Developed production React Native applications from wireframes and requirements.
-- Built reusable mobile UI components.
-- Implemented application features and REST API integrations.
-- Worked with JavaScript, React Native, Redux, and npm.
-- Contributed to mobile application architecture and frontend implementation.
-- Worked on responsive mobile interfaces and third-party integrations.
-
-### Software Development Intern
-**Cousins Infotech, Surat**  
-**Jan 2017 – Jul 2017**
-
-- Developed an Android blood donor application.
-- Worked with Java, XML, Volley, Google Maps, and Lottie.
-- Implemented API communication and map-based functionality.
-
-### Web Development Intern
-**Cousins Infotech, Surat**  
-**Apr 2016 – Jun 2016**
-
-- Contributed to web development projects.
-- Worked on frontend and backend implementation using PHP.
-- Worked with database design and application development.
+- AI-powered application experiences
+- SaaS platforms
+- Healthcare applications
+- eLearning platforms
+- Finance and payment systems
+- Real estate platforms
+- E-commerce products
+- Real-time applications
+- Mobile applications
+- API-driven products
 
 ---
 
-## 🏭 Industry Experience
+## 🔧 Engineering Approach
 
-- SaaS
-- eLearning
-- Healthcare
-- Real Estate
-- Finance
-- Crowdfunding
-- E-Commerce
-- Product Development
+I care about more than simply making features work.
+
+My approach usually focuses on:
+
+**Understand → Design → Build → Integrate → Evaluate → Improve**
+
+Whether I'm integrating an LLM or building a frontend application, I focus on:
+
+- Clean and reusable architecture
+- Practical AI integration
+- Good user experience
+- Reliable API communication
+- Performance
+- Maintainability
+- Continuous improvement
 
 ---
 
-## 🔗 Connect With Me
+## 📌 Selected Work
+
+I've worked on a range of production applications involving:
+
+**AI & LLMs**  
+AI-powered features, LLM integrations, prompt engineering and response evaluation.
+
+**Web Applications**  
+React and Next.js applications with APIs, real-time communication, reusable components and performance optimization.
+
+**Mobile Applications**  
+React Native applications across iOS and Android, including payments, maps, notifications, deep linking and third-party SDKs.
+
+**Real-time Products**  
+Applications involving WebSockets, chat, profiles, appointments, calendars and live communication.
+
+---
+
+## 🌱 Currently Focused On
+
+**AI + Software Engineering**
+
+I'm continuing to explore how LLMs and Generative AI can be integrated into real-world products, development workflows, and user experiences.
+
+I'm especially interested in opportunities involving:
+
+`AI/GenAI` • `LLM Applications` • `AI Integration` • `Prompt Engineering` • `AI Evaluation` • `React` • `Next.js` • `TypeScript`
+
+---
+
+## 🤝 Let's Connect
+
+If you're building an AI product, integrating LLMs into an existing application, or looking for an engineer who can bridge **AI and production software engineering**, I'd be happy to connect.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pansuriya-chirag/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/pansuriya-chirag/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/bitindiancoder" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/bitindiancoder">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/10627394/pansuriya-chirag" target="_blank">
-<img src="https://img.shields.io/badge/Stack%20Overflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+<a href="mailto:chiragpansuriya210@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@chiragpansuriya" target="_blank">
-<img src="https://img.shields.io/badge/Medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-
-<a href="https://www.upwork.com/freelancers/chirag" target="_blank">
-<img src="https://img.shields.io/badge/Upwork-14A800.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-</a>
-
-</p>
-
----
-
-## 📫 Contact
-
-**Email:** chiragpansuriya210@gmail.com
-
-**Portfolio:** https://chiragpansuriya.dev
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bitindiancoder&show_icons=true&locale=en" alt="Chirag Pansuriya GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bitindiancoder" alt="Chirag Pansuriya GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bitindiancoder&show_icons=true&locale=en&layout=compact" alt="Chirag Pansuriya Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-<b>Building practical AI, web and mobile products.</b>
+<b>AI + Engineering + Product Thinking</b>
+</p>
+
+<p align="center">
+Building practical technology, one product at a time.
 </p>
