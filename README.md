@@ -280,7 +280,7 @@ Also experienced with:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pansuriya-chirag-95449610/" target="_blank">
+<a href="https://www.linkedin.com/in/pansuriya-chirag/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
